@@ -12,10 +12,10 @@ This game is built using pygame and loads.tmx levels with pytmx. Currently, only
 1. Install these Python libraries:
    - pygame
    - pytmx
----
-pip install pygame pytmx
----
+
+#### pip install pygame pytmx
+
 2. Execute 'project/main.py' to start the game. Have fun! 🎮
----
-python main.py
----
+
+#### python main.py
+
